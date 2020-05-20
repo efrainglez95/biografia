@@ -1,0 +1,33 @@
+*{
+	margin:0px;
+	padding:0px; 
+	background:#A9D0F5;
+}
+h1{
+	font-size:50px; 
+color:red; 
+}	
+p {
+  padding: 4rem;
+  font-size: 1.25rem;
+}
+img{
+	width:20%;
+	height:20%; 
+	margin:auto;
+	display:block; 
+	border-radius:10px ;
+	/*box-shadow: 5px 5px 0px #424242;*/
+	padding: 10px;
+	border:2px solid #ccc;
+}
+div	{
+	
+	width: 100%;
+}
+.Header nav {
+  padding: 2rem 0;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 3rem;
+}
